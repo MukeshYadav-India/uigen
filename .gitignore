@@ -6,4 +6,5 @@ node_modules/
 prisma/dev.db
 .idea/
 .claude/
+!.claude/settings.json
 src/generated/
